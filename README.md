@@ -19,3 +19,5 @@ A,B, and C and their possible parent sets along with their cost as follows and g
 the minimium cost network.
 
 ## Sample Output
+
+![output_sample](https://github.com/MuhammadSaqib001/Vertex-Ordering-Optimization-in-Python/blob/main/vertex_ordering_sample.png)
